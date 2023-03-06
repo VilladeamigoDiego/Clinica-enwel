@@ -1,0 +1,122 @@
+body{
+
+    background-color: #cfe9ff;
+
+}
+
+
+.carousel-inner {
+    height: 500px;
+}
+
+.clinica{
+    
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+    text-shadow: 3px 3px 0 rgb(0, 0, 0);
+    
+}
+
+.logueo{
+
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    
+}
+
+.sombra{
+
+    text-shadow: 3px 3px 0 rgb(134, 134, 134);
+
+}
+
+.shadows{
+
+    text-shadow: 2px 2px 0 rgb(105, 160, 164);
+
+}
+
+
+main div p{
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.float{
+
+    display: flex!important;
+    flex-basis: auto;
+    flex-direction: row-reverse;
+
+}
+
+.mas{
+
+    color: white;
+
+}
+.mas:hover{
+
+    color: white;
+
+}
+
+form {
+    width: 500px;
+    border: solid 2px black;
+    border-radius: 20px;
+    box-shadow: 5px 10px #44A2F1;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #ABD7FC;
+}
+
+
+a{
+    text-decoration: none!important;
+    color: white;
+}
+
+.boton{
+
+    text-decoration: none;
+
+}
+.boton:hover{
+
+    opacity: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.bronce{
+
+    background-color: rgb(170, 146, 121);
+    border-color: rgb(126, 105, 83);
+
+}
+
+.plata{
+
+    background-color: rgb(199, 199, 199);
+
+}
+
+.oro{
+
+    background-color: rgb(255, 213, 106); 
+
+}
+
+
+.pie{
+
+    z-index: 50;
+    position: relative;
+    left: 30%;
+}
